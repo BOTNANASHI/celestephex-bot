@@ -1,5 +1,13 @@
 {
-  "botName": "CelestePhex",
-  "owner": "REAPER",
-  "prefix": "!"
+  "name": "bot-celestephex",
+  "version": "1.0.0",
+  "description": "Bot para WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.18.0",
+    "qrcode-terminal": "^0.12.0"
+  }
 }
