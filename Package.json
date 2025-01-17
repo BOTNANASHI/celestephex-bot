@@ -1,0 +1,14 @@
+{
+  "name": "bot-celestephex",
+  "version": "1.0.0",
+  "description": "Um bot para WhatsApp chamado CelestePhex, criado com Node.js e Baileys.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
